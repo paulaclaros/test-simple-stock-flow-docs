@@ -1,7 +1,20 @@
 # test-simple-stock-flow-docs
 
-> **Prueba técnica · Ficha ADSO 3413974**
-> Horario: de **9:00 a. m. a 3:00 p. m.** (15:00)
+> **Prueba técnica · Ficha ADSO 3413974**  
+> **Aprendiz:** Paula Claros ([`paulaclaros`](https://github.com/paulaclaros))  
+> **Metodología:** Spec-Driven Development (SDD) · Arquitectura Onion (4 Anillos + Bootstrap)  
+> **Stack:** PHP 8.2 (Laravel 10/11) + React 18 (TypeScript + Vite)  
+
+---
+
+## 📌 Documentación de Entrega Técnica (SDD)
+* 🚀 **[ENTREGA-TECNICA.md](ENTREGA-TECNICA.md):** Manual técnico con diagramas visuales Mermaid (Arquitectura Cebolla, Modelo Entidad-Relación y Diagrama de Secuencia con control de concurrencia).
+* 🧅 **[ARQUITECTURA-ONION.md](ARQUITECTURA-ONION.md):** Especificación completa de la Arquitectura Cebolla de 4 capas + Bootstrap acordada por el equipo.
+* 📝 **[BITACORA_DESARROLLO_SDD.md](BITACORA_DESARROLLO_SDD.md):** Bitácora cronológica con matriz de cumplimiento de las 12 reglas de negocio (RN-01 a RN-12) y las 8 historias de usuario (HU-01 a HU-08).
+* 📋 **[plan-laravel.md](plan-laravel.md):** Plan detallado de traducción técnica de Python/.NET a Laravel y React (Tareas T-01 a T-27).
+* 🏛️ **[Registros de Decisiones de Arquitectura (ADRs)](adr/):** ADR-005 a ADR-010.
+
+---
 
 Este repositorio contiene el **spec** de *Simple Stock Flow*. Es el único con contenido: los otros cinco empiezan vacíos.
 
